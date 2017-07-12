@@ -1,0 +1,56 @@
+/**** Header ****/
+
+h1 {
+	text-align: center;
+}
+
+/***** Character Profiles ****/
+
+.character-image {
+	height: 200px;
+	width: 200px;
+	display: block;
+}
+
+#character {
+	display: inline-block;
+	margin: 0px 30px;
+	border: solid black 3px;
+}
+
+.character-name {
+	text-align: center;
+}
+
+.character-health {
+	text-align: center;
+}
+
+#luke-health {
+	text-align: center;
+}
+
+#darth-health {
+	text-align: center;
+}
+
+#sidious-health {
+	text-align: center;
+}
+
+#maul-health {
+	text-align: center;
+}
+
+
+
+
+
+/***** Row Labels ****/
+
+.row-label {
+	font-size: 20px;
+}
+
+/***** Arena *****/
+
